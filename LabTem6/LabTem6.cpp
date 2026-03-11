@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 int main()
+using namespace std;
 {
-    std::cout << "Tema #9/ version 1\n";
+    std::cout << "Tema #8/ version 1\n";
 }
 
